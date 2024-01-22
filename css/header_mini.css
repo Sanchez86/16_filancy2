@@ -1,0 +1,92 @@
+@media only screen and (max-width: 1200px){
+    .borderBottom{
+        bottom: -20px;
+    }
+    .header_mini .nav > li > a {
+        padding-top: 20px!important;
+    }
+    .header_mini .container {
+        padding: 0 15px;
+    }
+    .header_mini .main-menu li{
+        width: 95px;
+    }
+   .header_mini .navbar-nav{
+        margin-right: 0;
+    }
+}
+@media only screen and (max-width: 992px){
+    .header_mini .main-menu li{
+        width: 90px;
+    }
+}
+@media only screen and (max-width: 900px){
+        .header_mini .main-menu li {
+            width: 85px;
+        }
+    }
+@media only screen and (max-width: 850px){
+
+    .header_mini .main-menu li {
+            width: 80px;
+        }
+}
+@media only screen and (max-width: 800px){
+    .header_mini .main-menu li {
+        width: 77px;
+    }
+}
+@media only screen and (max-width: 768px){
+    .borderBottom{
+        bottom: 0px;
+    }
+    .header_mini .main-menu .navbar .navbar-nav{
+        height: auto;
+        overflow: hidden;
+    }
+    .header_mini .nav > li > a {
+        padding-top: 10px!important;
+        padding-bottom: 8px!important;
+    }
+}
+@media only screen and (max-width: 767px){
+    .header_mini .main-menu {
+        background-color: rgba(255, 255, 255, 0.9);
+        height: 100px;
+    }
+    .header_mini .navbar-collapse {
+        background-color: rgba(255, 255, 255, 0.9);
+    }
+}
+@media only screen and (max-width: 736px){
+    .header_mini .nav > li > a {
+        margin-bottom: 3px!important;
+        padding-top: 0px!important;
+    }
+    
+}
+@media only screen and (max-width: 667px){
+        .header_mini .nav > li > a {
+        padding-bottom: 5px!important;
+        padding-top: 5px!important;
+    }
+    .header_mini .main-menu li{
+        margin-top: 0;  
+    }
+}
+@media only screen and (max-width: 667px){
+    .header_mini .main-menu li {
+        width: 72px;
+    }
+    .header3 .main-menu .navbar-inverse .navbar-nav > li > a {
+        font-size: 10.3px;
+        color: #0f626e;
+    }
+}
+
+@media only screen and (max-width: 375px){
+    .header_mini .nav > li > a {
+        padding-bottom: 5px!important;
+        padding-top: 5px!important;
+    }
+}

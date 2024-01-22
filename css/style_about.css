@@ -1,0 +1,531 @@
+.aboutUsCircle span{
+    font-size: 30px;
+    color: #eeeeee;
+    font-family: "OpenSans-Regular";
+}
+.facts h2{
+    margin-bottom: 171px;
+}
+.aboutUsCircle p{
+    font-size: 16px;
+    color:#32233b;
+    font-family: "Raleway-Medium";
+    position: absolute;
+    width: 300px;
+}
+.sub_facts{
+    background-image: url(../img/aboutUsLines.png);
+    width: 986px;
+    height:270px;
+    margin:0 auto;
+    position: relative;
+}
+.aboutUsCircle{
+    background-image: url(../img/aboutUsCircle.png);
+    width: 164px;
+    height:164px;
+    background-size:contain;
+    position: absolute;
+    padding-top: 57px;
+    text-align: center!important;
+}
+.aboutUsCircle1{
+    top: 135px;
+    left: -81px;
+}
+.aboutUsCircle2{
+    top: -43px;
+    left: 21px;
+    width: 126px;
+    height: 126px;
+    padding-top: 41px;
+}
+.aboutUsCircle3{
+    top:20px;
+    left:80px;
+    top: -133px;
+    left: 155px;
+}
+.aboutUsCircle4{
+    top: 172px;
+    left: 294px;
+    width: 126px;
+    height: 126px;
+    padding-top: 41px;
+}
+.aboutUsCircle5{
+    top: 200px;
+    right: 241px;
+    width: 153px;
+    height: 153px;
+}
+.aboutUsCircle6{
+    right: 196px;
+    top: -92px;
+    width: 134px;
+    height: 134px;
+    padding-top: 41px;
+}
+.aboutUsCircle7{
+    top: 125px;
+    right: -6px;
+    width: 134px;
+    height: 134px;
+    padding-top: 41px;
+}
+.aboutUsCircle8{
+    right: -108px;
+    top: -64px;
+}
+
+.aboutUsCircle1 p{
+    top: 188px;
+    left: 3px;
+}
+.aboutUsCircle2 p{
+    top: -39px;
+    left: -143px;
+}
+.aboutUsCircle3 p{
+    top: 61px;
+    left: 80px;
+}
+.aboutUsCircle4 p{
+    top: -32px;
+    left: -108px
+}
+.aboutUsCircle5 p{
+    top: 91px;
+    left: 113px;
+}
+.aboutUsCircle6 p{
+    top: -30px;
+    left: -173px;
+}
+.aboutUsCircle7 p{
+     top: 12px;
+    left: -257px;
+}
+.aboutUsCircle8 p{
+    top: -36px;
+    left: -134px;
+}
+.team{
+    padding-top: 69px;
+}
+.center-item img {
+    margin-top: -12px;
+    margin-left: -12px;
+    max-width: 115%;
+}
+.team .team-img13{
+        left: 13%;
+}
+.team .team-img14 {
+    left: 35%;
+}
+.team .team-img15 {
+    top: 21%;
+    left: 46%;
+}
+.team .team-img16 {
+    left: 23%;
+}
+.client .wrap-com p{
+    text-align: left;
+}
+.why-us .container{
+    max-width: 1145px;
+}
+.why-us p{
+    width: 90%;
+}
+.headerAbout{
+    background-image: none;
+}
+.header3 .main-menu {
+    background-color: rgba(5,9,15,0.12);
+}
+.wrap-img1{
+    background-image: url(../img/programming.png);
+    width: 77px;
+    height: 66px;
+    display: inline-block;
+    transition: all 1.5s;
+    margin-top: 50px;
+}
+.wrap-img2{
+    background-image: url(../img/individual.png);
+    width: 82px;
+    height: 76px;
+    display: inline-block;
+    transition: all 1.5s;
+    margin-top: 45px;
+}
+.wrap-img3{
+    background-image: url(../img/dream.png);
+    width: 90px;
+    height: 87px;
+    display: inline-block;
+    transition: all 1.5s;
+    margin-top: 38px;
+}
+
+.wrap-img.active .wrap-img2{
+     background-image: url(../img/individualActive.png);
+     transition: all 1.5s;
+}
+.wrap-img.active .wrap-img3{
+     background-image: url(../img/dreamActive.png);
+     transition: all 1.5s;
+}
+.wrap-img.active .wrap-img1{
+     background-image: url(../img/programmingActive.png);
+     transition: all 1.5s;
+}
+.why-item h4{
+    font-size: 21px;
+    margin-top: 18px;
+    margin-bottom: 22px;
+}
+.why-us a.button,
+.why-us .button{
+    padding: 11px 0;
+    font-size: 18.71px;
+    font-family: "Raleway-Bold"!important;
+    width: 331px;
+    margin-top: 46px;
+}
+.why-us {
+    padding-bottom: 81px;
+}
+.about-descr p{
+    font-size: 18px;
+    font-family: "Raleway-Medium";
+    margin-bottom: 35px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.about-descr{
+    padding-top: 65px;
+    padding-bottom: 33px;
+}
+.testimonial_ar_left{
+    background-image: url(../img/testimLeft.png);
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    transition: all 0.5s;
+} 
+.testimonial_ar_left:hover{
+    background-image: url(../img/testimLeftActive.png);
+    transition: all 0.5s;
+}
+.testimonial_ar_right{
+    background-image: url(../img/testimRight.png);
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    transition: all 0.5s;
+}
+.testimonial_ar_right:hover{
+    background-image: url(../img/testimRightActive.png);
+    transition: all 0.5s;
+}
+.client .carousel-control.left, .client .carousel-control.right{
+  width: 32px;
+  margin-right: 2px; 
+  margin-top: 24px;
+}
+.testimonial-carousel-control{
+        text-align: center;
+}
+.client{
+    padding-bottom: 31px;
+}
+.center-item2 img {
+    margin-top: 1px;
+    margin-left: 0px;
+    max-width: 115%;
+}
+.company_name p{
+    text-align: right!important;
+}
+@media only screen and (max-width: 1250px){
+    .sub_facts{
+        transform: scale(0.9);
+    }
+}
+@media only screen and (max-width: 1200px){
+    .sub_facts{
+        transform: scale(0.89);
+    }
+    .client #clientCarousel {
+        margin-left: 0%;
+    }
+    .client .container{
+        width: 100%;
+        max-width: 90%;
+    }
+    .client .wrap-com .company_name p{
+        margin-left: 0;
+        margin-right: 0px;
+        padding-right: 0px;
+    }
+    .comment-descr .col-md-7{
+        padding: 0;
+    }
+}
+@media only screen and (max-width: 1200px){
+    .sub_facts{
+        transform: scale(0.8);
+    }
+}
+@media only screen and (max-width: 1024px){
+    .facts h2{
+        font-size: 38px;
+    }
+    .sub_facts {
+        transform: scale(0.75);
+    }
+    .client .carousel-control.left, .client .carousel-control.right{
+		margin-top: 0;
+	}
+    .client .comment-descr h4{
+        padding-right: 10px;
+    }
+    .logo_name {
+         margin-left: 23px;
+    }
+    .facts{
+        /*margin-right: 85px;*/
+    }
+  
+}
+@media only screen and (max-width: 992px){
+    .facts {
+        margin-right: auto;
+        padding-bottom: 32px;
+    }
+    .client .wrap-com .fa-quote-right{
+        display: inline-block;
+        top: 5px !important;
+    }
+    .top-line{
+        text-align: left;
+    }
+    .client h2{
+        margin-bottom: 17px;
+    }
+}
+.team{
+    display: none;
+}
+@media only screen and (max-width: 970px){
+    .facts h2 {
+        margin-bottom: 38px;
+    }
+    .aboutUsCircle7{
+        margin-left: 115px;
+    }
+    .aboutUsCircle2,
+    .aboutUsCircle5,
+    .aboutUsCircle8{
+        margin-left: 70px;
+        margin-right: 70px;
+    }
+    .clearResp{
+        clear: both;
+    }
+    .sub_facts{
+        background: none;
+        width: 633px;
+        transform: scale(1);
+    }
+    .aboutUsCircle{
+        width: 164px;
+        height: 164px;
+        position: relative;
+        top: 0!important;
+        left: 0!important;
+        padding-top: 57px!important;
+        float: left;
+        background-repeat: no-repeat;
+        margin-bottom: 91px;
+    }
+    .aboutUsCircle p{
+        position: relative;
+        width: auto;
+        top: 72px;
+        left: inherit!important;
+        margin-bottom: 91px;
+    }
+}
+@media only screen and (max-width: 768px){
+    .why-us p{
+        margin-bottom: 20px;
+    }
+    .why-item h4 {
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+}
+@media only screen and (max-width: 736px){
+    .about-descr{
+        padding-top: 120px;
+    }
+}
+    
+@media only screen and (max-width: 667px){
+    .sub_facts {
+        transform: scale(0.85);
+    }
+    .client .wrap-com .company_name p{
+        padding-right: 0px;
+    }
+}
+@media only screen and (max-width: 630px){
+    .sub_facts {
+        transform: scale(1);
+        width: 100%;
+    }
+    .clearResp {
+        clear: none;
+    }
+    .clearRespMob{
+        clear: both;
+    }
+    .aboutUsCircle{
+        width: 50%!important;
+        height: 164px!important;
+        position: relative!important;
+        top: 0!important;
+        left: 0!important;
+        padding-top: 57px!important;
+        float: left!important;
+        background-repeat: no-repeat!important;
+        margin: 0!important;
+        margin-bottom: 91px!important;
+        background-position: center!important;
+    }
+}
+@media only screen and (max-width: 480px){
+.client .comment-descr h4, .client .comment-descr .company_name {
+    text-align: center;
+    padding-right: 10px;
+}
+
+    .client .comment-descr p{
+        font-size: 13px;
+    }
+    
+    .client .comment-descr h4 {
+        padding-right: 10px;
+        text-align: right;
+    }
+    .client .wrap-com .fa-quote-right{
+       left: 0px;
+    }
+    .client .wrap-com p {
+        margin-left: 40px;
+    }
+    .about-descr p {
+        line-height: 25px;
+        font-size: 14px;
+        padding: 0 10px;
+    }
+    .why-us a.button, .why-us .button{
+        width: 250px;
+        font-size: 15px;
+    }
+    
+}
+@media only screen and (max-width: 414px){
+    .facts{
+        padding-bottom: 15px;
+    }
+    .aboutUsCircle{
+        margin-left: 5vw;
+        margin-right: 5vw;
+    }
+    .logo_name {
+        margin-left: 0;
+    }
+    .logo_name img {
+        width: auto !important;
+        margin: 20px 0 0 15px;
+    }
+}
+@media only screen and (max-width: 412px){
+    .logoIn.logoIn12 span, .logoIn.logoIn14 span {
+        position: absolute;
+        top: 4px;
+    }
+}
+@media only screen and (max-width: 375px){
+    .facts {
+        padding-bottom: 17px;
+    }
+    .aboutUsCircle p{
+        top: 52px;
+        font-size: 15px;
+    }
+    .aboutUsCircle{
+        width: 130px;
+        height: 130px;
+        padding-top: 42px!important;
+        margin-left: 8vw;
+        margin-right: 7vw;
+        margin-bottom: 86px;
+    }
+    .about-descr{
+        padding-top: 125px;
+    }
+    .facts h2 {
+        padding-left: 0;
+    }
+   
+    .client .comment-descr h4, .client .comment-descr .company_name{
+        text-align: right;   
+    }
+    .aboutUsCircle{
+        padding-top: 58px!important;
+    }
+    .aboutUsCircle p{
+        top: 73px;
+    }
+}
+@media only screen and (max-width: 360px){
+    .facts h2{
+        padding-right: 0;
+    }
+    .aboutUsCircle{
+        margin-left: 7vw;
+        margin-right: 6vw;
+    }
+}
+@media only screen and (max-width: 320px){
+    .aboutUsCircle{
+        margin-left: 5vw;
+        margin-right: 4vw;
+        height: 135px!important;
+        padding-top: 40px!important;
+    }
+    .facts h2 {
+        font-size: 34px;
+    }
+    
+}
+/*
+    width: 50%;
+    height: 164px;
+    position: relative;
+    top: 0!important;
+    left: 0!important;
+    padding-top: 57px!important;
+    float: left;
+    background-repeat: no-repeat;
+    margin: 0;
+    margin-bottom: 91px;
+    background-position: center;
+*/

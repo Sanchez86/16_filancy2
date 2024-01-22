@@ -1,0 +1,18 @@
+@media only screen and (max-width: 768px){
+    .dark.portfolio {
+        background: url(../img/header_background-2.png) no-repeat center;
+        background-size: cover;
+        padding: 1px 0 0;
+        text-align: center;
+        height: 584px!important;
+    }
+    
+    .portfolio .header3 .container {
+        width: 86%;
+    }
+}
+@media only screen and (max-width : 414px) {
+	.client .carousel .item{
+		height: 1350px;
+	}
+}
