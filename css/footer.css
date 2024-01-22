@@ -1,0 +1,118 @@
+footer {
+    background-color: #085e6b!important;
+    font-size: 18px!important;
+    padding: 23px 0!important;
+    color: #6fa7b0!important;
+  }
+  
+  footer p {
+    text-align: left!important;
+    margin-top: 10px!important;
+    color: #6fa7b0!important;
+  }
+  
+  .fa-envelope-box, footer .fa-envelope-box a{
+      text-align: right!important;
+      color:#74acb4!important;
+  }
+  
+  footer .f-soc {
+    display: inline-block!important;
+    width: 40px!important;
+    height: 40px!important;
+    border: 0!important;
+    text-align: center!important;
+    transition: all 0.5s!important;
+  }
+  
+  footer .f-soc:hover i.fa {
+    color: #74acb4!important;
+  }
+  
+  footer .f-soc i.fa {
+    margin-top: 10px!important;
+    font-size: 24px!important;
+    transition: all 0.5s!important;
+    color: #dfddd1!important;
+  }
+  
+  footer .foot-soc {
+    text-align: center!important;
+  }
+  
+  footer .fa-envelope-box i.fa {
+      margin-top: 10px!important;
+      font-size: 23px!important;
+      transition: all 0.5s!important;
+      margin-right: 17px!important;
+  }
+  
+  footer .container{
+    padding: 0 15px !important;
+  }
+  @media only screen and (max-width: 900px){
+      .textwidget p a,
+      .fa-envelope-box a{
+          font-size: 15px!important;
+      }
+      footer .fa-envelope-box i.fa{
+        margin-right: 5px!important;
+      }
+  }
+  @media only screen and (max-width : 768px) {
+   footer p {
+      text-align: center!important;
+      margin-bottom: 10px!important;
+      margin-top: 0!important;
+  }
+    .portfolio footer p a{
+      text-align: center!important;
+    }
+  }
+  
+  @media only screen and (max-width : 767px) {
+    footer .foot-soc{
+      text-align: left!important;
+      float: none!important;
+    } 
+  }
+  @media only screen and (max-width : 667px){
+    footer .foot-soc {
+        text-align: left!important;
+    }
+  }
+  @media only screen and (max-width: 640px){
+    .fa-envelope-box {
+        margin-left: -10%;
+    }
+  }
+  @media only screen and (max-width : 568px){
+    footer .foot-soc {
+        text-align: left!important;
+    }
+  }
+  @media only screen and (max-width : 480px) {
+    .fa-envelope-box a{
+      margin-top: 12px!important;
+    }
+  }
+  
+  /* Custom, iPhone Retina */
+  @media only screen and (max-width : 360px){
+      footer .fa-envelope-box i.fa {
+        margin-top: -3px!important;
+      }
+      .fa-envelope-box, footer .fa-envelope-box a {
+        margin-top: 9px!important;
+    }
+  }
+  @media only screen and (max-width : 350px) {
+      footer .fa-envelope-box i.fa{
+          font-size: 19px!important;
+          margin-right: 0px!important;
+      }
+      .fa-envelope-box, footer .fa-envelope-box a {
+          margin-top: 10px!important;
+      }
+  }
+  

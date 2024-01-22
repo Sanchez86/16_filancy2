@@ -1,0 +1,40 @@
+/* menu active class for all pages */
+.main-menu .navbar-inverse .navbar-nav > li > a.menu1.active i {
+    color: #085e6b;
+    background-image: url(../img2/menu1Active.png);
+}
+
+.main-menu .navbar-inverse .navbar-nav > li > a.menu2.active i {
+    color: #085e6b;
+    background-image: url(../img2/menu2Active.png);
+}
+
+
+.main-menu .navbar-inverse .navbar-nav > li > a.menu3.active i {
+    color: #085e6b;
+    background-image: url(../img2/menu3Active.png);
+}
+
+
+.main-menu .navbar-inverse .navbar-nav > li > a.menu4.active i {
+    color: #085e6b;
+    background-image: url(../img2/menu4Active.png);
+}
+
+
+.main-menu .navbar-inverse .navbar-nav > li > a.menu5.active i {
+    color: #085e6b;
+    background-image: url(../img2/menu5Active.png);
+}
+
+
+.main-menu .navbar-inverse .navbar-nav > li > a.menu6.active i {
+    color: #085e6b;
+    background-image: url(../img2/menu6Active.png);
+}
+
+
+.main-menu .navbar-inverse .navbar-nav > li > a.menu7.active i {
+    color: #085e6b;
+    background-image: url(../img2/menu7Active.png);
+}

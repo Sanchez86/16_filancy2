@@ -1,0 +1,275 @@
+.client #clientCarousel {
+    margin-left: 0;
+}
+.clients h2{
+    color: #090909;
+    margin-bottom: 28px;
+}
+.clients h3{
+    font-family: "Raleway-Medium";
+    text-transform:inherit;
+    font-size: 18px;
+    color: #000;
+}
+.partners .wrap-part img{
+    margin-bottom: 85px;
+}
+
+/*------------------*/
+
+
+.team{
+    padding-top: 69px;
+}
+.center-item img {
+    margin-top: -12px;
+    margin-left: -12px;
+    max-width: 115%;
+}
+.team .team-img13{
+        left: 13%;
+}
+.team .team-img14 {
+    left: 35%;
+}
+.team .team-img15 {
+    top: 21%;
+    left: 46%;
+}
+.team .team-img16 {
+    left: 23%;
+}
+.client .wrap-com p{
+    text-align: left;
+}
+.why-us .container{
+    max-width: 1145px;
+}
+.why-us p{
+    width: 90%;
+}
+.wrap-img1{
+    background-image: url(../img/programming.png);
+    width: 77px;
+    height: 66px;
+    display: inline-block;
+    transition: all 1.5s;
+    margin-top: 50px;
+}
+.wrap-img2{
+    background-image: url(../img/individual.png);
+    width: 82px;
+    height: 76px;
+    display: inline-block;
+    transition: all 1.5s;
+    margin-top: 45px;
+}
+.wrap-img3{
+    background-image: url(../img/dream.png);
+    width: 90px;
+    height: 87px;
+    display: inline-block;
+    transition: all 1.5s;
+    margin-top: 38px;
+}
+
+.wrap-img.active .wrap-img2{
+     background-image: url(../img/individualActive.png);
+     transition: all 1.5s;
+}
+.wrap-img.active .wrap-img3{
+     background-image: url(../img/dreamActive.png);
+     transition: all 1.5s;
+}
+.wrap-img.active .wrap-img1{
+     background-image: url(../img/programmingActive.png);
+     transition: all 1.5s;
+}
+.why-item h4{
+    font-size: 21px;
+    margin-top: 18px;
+    margin-bottom: 22px;
+}
+.why-us a.button,
+.why-us .button{
+    padding: 11px 0;
+    font-size: 18.71px;
+    font-family: "Raleway-Bold"!important;
+    width: 331px;
+    margin-top: 46px;
+}
+.why-us {
+    padding-bottom: 81px;
+}
+.about-descr p{
+    font-size: 18px;
+    font-family: "Raleway-Medium";
+    margin-bottom: 35px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.about-descr{
+    padding-top: 65px;
+    padding-bottom: 33px;
+}
+.testimonial_ar_left{
+    background-image: url(../img/testimLeft.png);
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    transition: all 0.5s;
+} 
+.testimonial_ar_left:hover{
+    background-image: url(../img/testimLeftActive.png);
+    transition: all 0.5s;
+}
+.testimonial_ar_right{
+    background-image: url(../img/testimRight.png);
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    transition: all 0.5s;
+}
+.testimonial_ar_right:hover{
+    background-image: url(../img/testimRightActive.png);
+    transition: all 0.5s;
+}
+.client .carousel-control.left, .client .carousel-control.right{
+  width: 32px;
+  margin-right: 2px; 
+  margin-top: 24px;
+}
+.testimonial-carousel-control{
+        text-align: center;
+}
+.client{
+    padding-bottom: 31px;
+}
+.center-item2 img {
+    margin-top: 1px;
+    margin-left: 0px;
+    max-width: 115%;
+}
+.company_name p{
+    text-align: right!important;
+}
+.top-line .clients2{
+    background-image: url(../img2/brandBg.jpg)!important;
+}
+.comment-descr .col-md-7{
+    padding: 0
+}
+@media only screen and (max-width: 1200px){
+    
+    .client #clientCarousel {
+        margin-left: 0%;
+    }
+    .client .container{
+        width: 100%;
+        max-width: 90%;
+    }
+    .client .wrap-com .company_name p{
+        margin-left: 0;
+        margin-right: 0px;
+        padding-right: 10px;
+    }
+    .comment-descr .col-md-7{
+        padding: 0;
+    }
+}
+@media only screen and (max-width: 1024px){
+    .client .carousel-control.left, .client .carousel-control.right{
+		margin-top: 0;
+	}
+    .logo_name {
+         margin-left: 23px;
+    }
+}
+@media only screen and (max-width: 992px){
+    
+    .client .wrap-com .fa-quote-right{
+        display: inline-block;
+        top: 5px !important;
+    }
+    .client h2{
+        margin-bottom: 17px;
+    }
+}
+.team{
+    display: none;
+}
+@media only screen and (max-width: 767px){
+    .partners .wrap-part img {
+        width: 110px;
+        height: 50px;
+    }
+}
+@media only screen and (max-width: 667px){
+    .client .wrap-com .company_name p{
+        padding-right: 0px;
+    }
+    .about-descr{
+        padding-top: 120px;
+    }
+    .client .comment-descr {
+        margin-left: 0;
+    }
+    .top-line .clients2{
+        padding-top: 140px;
+    }
+}
+@media only screen and (max-width: 480px){
+    .client .comment-descr p{
+        font-size: 13px;
+    }
+    .client .comment-descr h4{
+        padding-right: 10px;
+    }
+    .client .wrap-com .fa-quote-right{
+       left: 0px;
+    }
+    .client .wrap-com p {
+        margin-left: 40px;
+    }
+    .about-descr p {
+        line-height: 25px;
+        font-size: 14px;
+        padding: 0 10px;
+    }
+    .why-us a.button, .why-us .button{
+        width: 250px;
+        font-size: 15px;
+    }
+    .client .comment-descr h4 {
+        padding-right: 0;
+        text-align: right;
+    }
+}
+
+@media only screen and (max-width: 414px){
+    .logo_name img{
+        margin: 0;
+    }
+    .partners {
+		padding-top: 51px;
+	}
+    
+}
+@media only screen and (max-width: 375px){
+    .client .wrap-com .company_name p{
+        padding-right: 10px;
+    }
+    .about-descr{
+        padding-top: 125px;
+    }
+    .clients h3{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    
+}
+@media only screen and (max-width: 375px){
+    .client .comment-descr h4, .client .comment-descr .company_name{
+    text-align: right;   
+    }
+}

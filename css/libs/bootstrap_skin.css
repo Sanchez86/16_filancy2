@@ -1,0 +1,49 @@
+.btn {
+	border-radius: 0;
+}
+/*.carousel .item {
+	height: 500px;
+	background-color: #777;
+}*/
+.carousel-control.left,
+.carousel-control.right {
+	background: none;
+}
+.carousel-caption {
+	right: 0;
+	left: 0;
+	bottom: 0;
+	top: 0;
+}
+.navbar-inverse {
+	background: transparent;
+	border-color: transparent;
+}
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+	background-color: transparent;
+}
+.navbar-inverse .navbar-nav > li > a:focus {
+    background-color: transparent;
+}
+
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
+    background-color: transparent;
+}
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+p {
+	margin: 0;	
+}
+button.btn.btn-default,
+.btn-default {
+	background: transparent;
+	border-color: transparent;
+}
+.btn-default:focus, .btn-default.focus {
+	border: transparent;
+}
+.navbar {
+	margin-bottom: 0;
+}

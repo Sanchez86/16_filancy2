@@ -1,0 +1,62 @@
+@font-face {
+    font-family: "Raleway-Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/Raleway-Regular/Raleway-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Raleway-Regular/Raleway-Regular.woff") format("woff"), url("../fonts/Raleway-Regular/Raleway-Regular.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Raleway-Bold";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/Raleway-Bold/Raleway-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Raleway-Bold/Raleway-Bold.woff") format("woff"), url("../fonts/Raleway-Bold/Raleway-Bold.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Raleway-SemiBold";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/Raleway-SemiBold/Raleway-SemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/Raleway-SemiBold/Raleway-SemiBold.woff") format("woff"), url("../fonts/Raleway-SemiBold/Raleway-SemiBold.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Raleway-Bold";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/Raleway-Bold/Raleway-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Raleway-Bold/Raleway-Bold.woff") format("woff"), url("../fonts/Raleway-Bold/Raleway-Bold.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Raleway-Light";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/Raleway-Light/Raleway-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Raleway-Light/Raleway-Light.woff") format("woff"), url("../fonts/Raleway-Light/Raleway-Light.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Raleway-Medium";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/Raleway-Medium/Raleway-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/Raleway-Medium/Raleway-Medium.woff") format("woff"), url("../fonts/Raleway-Medium/Raleway-Medium.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Georgia-Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/Georgia-Regular/Georgia-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Georgia-Regular/Georgia-Regular.woff") format("woff"), url("../fonts/Georgia-Regular/Georgia-Regular.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Georgia-Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/Georgia-Regular/Georgia-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Georgia-Regular/Georgia-Regular.woff") format("woff"), url("../fonts/Georgia-Regular/Georgia-Regular.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "OpenSans-Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/OpenSans-Regular/OpenSans-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans-Regular/OpenSans-Regular.woff") format("woff"), url("../fonts/OpenSans-Regular/OpenSans-Regular.ttf") format("truetype");
+  }
