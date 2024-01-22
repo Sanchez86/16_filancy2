@@ -1,0 +1,728 @@
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1400px) {
+	.container.container-portf-slider {
+		width: 1340px!important;
+	}
+
+}
+
+@media only screen and (max-width : 1800px) {
+
+.facts .facts-item-3 h6.prog-bar {
+		top: 100%;
+		left: 16%;
+}
+}
+@media only screen and (max-width : 1750px) {
+		.portf-slider-desk .mouse {
+		display: none;
+	}
+	.facts .line7 {
+		left: 47%;
+		top: 58%;
+}
+.areas .nav-tabs {
+		width: 33%;
+		margin-left: 15%;
+}
+}
+
+
+@media only screen and (max-width : 1550px) {
+	.portf-slider-desk {
+		background: url(../img/portf-slider/portf-slider5.png) no-repeat right 70%;
+}
+}
+@media only screen and (max-width : 1500px) {
+		.areas .nav-tabs {
+		margin-left: 260px;
+	}
+}
+/*==========  Desktop First Method  ==========*/
+@media only screen and (max-width : 1400px) {
+
+	.areas .nav-tabs {
+		margin-left: 100px;
+		width: 38%;
+}
+	.partners .wrap-part img {
+		margin-right: 65px;
+	}
+	.partners .wrap-part img {
+		width: 80px;
+	}
+	.areas h3 {
+		width: 90%;
+	}
+	.n-book {
+	display: none;
+}
+
+.facts .facts-item-2 {
+		left: 20%;
+}
+	.facts .progress-bar{
+	-webkit-transform: scale(0.5);
+		-ms-transform: scale(0.5);
+		-moz-transform: scale(0.5);
+			transform: scale(0.5);
+}
+.facts h6.prog-bar {
+	font-size: 14px;
+}
+.facts .center-item {
+	-webkit-transform: scale(0.7);
+		-ms-transform: scale(0.7);
+		-moz-transform: scale(0.7);
+			transform: scale(0.7);
+}
+.facts .line6 {
+		right: 16%;
+}
+.facts .line4 {
+	right: 24%;
+}
+.facts .line8 {
+	right: 42%;
+}
+.facts .line2 {
+	right: 36%;
+}
+.facts .line7 {
+	top: 55%;
+}
+.facts .facts-item-8 {
+	top: 29%;
+}
+.facts .facts-item-3 {
+		top: 48%;
+		left: 16%;
+}
+.facts .facts-item-4 {
+		top: 55%;
+		left: 36%;
+}
+.facts .facts-item-8 {
+		top: 29%;
+		left: 76%;
+}
+.facts .facts-item-6 h6.prog-bar {
+		left: -26%;
+}
+.facts .facts-item-8 h6.prog-bar {
+		top: 8%;
+}
+.facts .facts-item-5 h6.prog-bar {
+		left: 77%;
+}
+.facts .facts-item-3 h6.prog-bar {
+		top: 75%;
+}
+.facts .facts-item-2 h6.prog-bar {
+		left: -23%;
+}
+.facts .facts-item-1 h6.prog-bar {
+		left: 78%;
+}
+.facts .facts-item-7 h6.prog-bar {
+		left: -33%;
+}
+}
+@media only screen and (max-width : 1300px) {
+	.portf-slider-desk .phone, .portf-slider-desk {
+		background: none;
+	}
+	.portf-slider-desk .phone {
+		height: auto;
+	}
+		.gallery ul {
+		padding: 0;
+	}
+}
+@media (min-width : 1200px) and (max-width : 1400px){
+	.portf-slider-group .col-lg-3 {
+		width: 33%;
+}
+}
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+	.areas .nav-tabs > li > a {
+    padding: 23px 28px;
+    font-size: 15px;
+}
+
+	.s-after {
+		display: none;
+	}
+.line {
+		display: none;
+}
+	.main-menu .collapse.navbar-collapse {
+		padding: 0 17px;
+	}
+	.main-menu li {
+		width: 128px;
+	}
+	.wrap-hill {
+		display: none;
+	}
+	.experience .wrap-r-hill {
+	height: 460px;
+}
+.experience h2 {
+	margin-bottom: 90px;
+	}
+	.experience {
+		background: url(../img/technol/1200ex-hill.png) no-repeat 50% 50%;
+}
+
+	.portf-slider-2 {
+		background-position: 50% 0;
+}
+.portf-slider-2 .owl-carousel .owl-item img {
+	margin: 0 auto;
+}
+	.client .wrap-com {
+		background: none;
+		border: 1px solid #999;
+		min-height: auto;
+	}
+	.client .item-comment {
+		width: 100%;
+		height: 100%;
+	}
+	.client .comment-descr {
+		margin-top: 15px;
+	}
+	.client .carousel-control.left, .client .carousel-control.right {
+		top: -15%;
+	}
+	.partners .wrap-part img {
+		margin: 10px  20px;
+	}
+	.gallery li {
+		margin: 0;
+	}
+/*	.main-menu {
+		height: 85px;
+	}*/
+	.ip-cover {
+		display: none;
+	}
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+		.areas .nav-tabs > li > a, .areas .tab-pane h4 {
+    padding: 12px 13px;
+    font-size: 15px;
+}
+
+		.lang .wrap-ninj {
+		float: none;
+		width: 100%;
+	}
+	.main-menu .collapse.navbar-collapse {
+		padding: 0 0;
+}
+.main-menu li {
+    width: 101px;
+}
+.line-vent {
+	transform: rotate(-53deg);
+}
+
+	.main-descr {
+		padding: 10px 0 50px;
+}
+h1 {
+	margin-top: 50px;
+}
+
+.my {
+	font-size: 36px;
+}
+.main-menu .navbar-inverse .navbar-nav > li > a {
+	font-size: 9px;
+}
+	section {
+		padding: 50px 0;
+	}
+	h2 {
+		font-size: 30px;
+	}
+				.brief .col-md-3 {
+		width: 33.33333333%;
+}
+	.facts {
+		padding-bottom: 50px;
+	}
+	.facts .progress-bar {
+		margin: 0 auto;
+		margin-bottom: 20px;
+	}
+	.facts h6.prog-bar {
+		position: static;
+	}
+	.prog-it {
+		margin-bottom: 30px;
+	}
+	.facts .facts-item {
+		position: static;
+		width: 32%;
+	}
+	.facts .center-item {
+		display: none;
+	}
+	h6.prog-bar {
+		text-align: center
+	}
+	.client .item-comment {
+		margin-top: 25px;
+	}
+	.client .wrap-com i.fa {
+		left: 3%;
+	}
+	.client .carousel-control.left, .client .carousel-control.right {
+		top: -3%;
+	}
+	.client .carousel-control.left {
+		left: 80%;
+	}
+	.interes h2, .chat h2 {
+		font-size: 50px;
+	}
+	.interes h3, .chat h3 {
+		font-size: 40px;
+	}
+	.serv-contact h2 {
+		font-size: 35px;
+	}
+	.chat .contact p {
+		font-size: 18px;
+	}
+	.about-descr, section{
+		padding: 60px 0;
+	}
+	.areas h3 {
+		margin-bottom: 30px;
+	}
+	.client-brif form {
+		width: 100%;
+		padding: 50px 20px;
+		border-radius: 20px;
+	}
+	a.button, .button {
+		margin-top: 25px;
+	}
+	.areas ul.nav.nav-tabs.tabs-left li {
+		background: none!important;
+	}
+	.facts .facts-item-8 h6.prog-bar,
+	.facts .facts-item-7 h6.prog-bar,
+	.facts .facts-item-6 h6.prog-bar,
+	.facts .facts-item-5 h6.prog-bar,
+	.facts .facts-item-4 h6.prog-bar,
+	.facts .facts-item-3 h6.prog-bar,
+	.facts .facts-item-2 h6.prog-bar,
+	.facts .facts-item-1 h6.prog-bar {
+		margin-top: -30px;
+}
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+
+	.areas .nav-tabs {
+		margin-left: 20px;
+	}
+	/*Disable Animation on Mobile Devices*/
+	.animated {
+		/*CSS transitions*/
+		-o-transition-property: none !important;
+		-moz-transition-property: none !important;
+		-ms-transition-property: none !important;
+		-webkit-transition-property: none !important;
+		transition-property: none !important;
+		/*CSS transforms*/
+		-o-transform: none !important;
+		-moz-transform: none !important;
+		-ms-transform: none !important;
+		-webkit-transform: none !important;
+		transform: none !important;
+		/*CSS animations*/
+		-webkit-animation: none !important;
+		-moz-animation: none !important;
+		-o-animation: none !important;
+		-ms-animation: none !important;
+		animation: none !important;
+	}
+
+}
+@media only screen and (max-width : 767px) {
+	nav.navbar.navbar-inverse {
+		margin-top: -1px;
+	}
+	.main-menu li {
+		width: 117px;
+	}
+	.top-line .top-soc {
+		margin-left: 15px;
+	}
+
+.top-line .top-soc {
+		position: fixed;
+		top: 0;
+		z-index: 11;
+		left: 0;
+}
+	.top-line {
+		padding-top: 100px;
+	}
+	.s-after {
+		display: none;
+	}
+ .index-body .main-menu, .main-menu {
+		position: fixed;
+		width: 100%;
+		z-index: 10;
+		top: 0;
+		height: 45px;
+		width: 100%;
+		
+}
+.navbar-header {
+	background: #054742;
+}
+
+	h2 {
+		margin-bottom: 20px;
+	}
+	.index-body .top-line h4 {
+		margin-top: 15px;
+	}
+	.navbar-collapse {
+		background-color: #054742;
+	}
+	.main-menu .navbar-inverse .navbar-nav > li > a {
+	font-size: 12px;
+	color: #dfddd1;
+}
+
+	h2, .work-body .chat h2 {
+		font-size: 25px;
+	}
+	.work-body .chat h3 {
+		font-size: 25px;
+		margin-bottom: 0;
+	}
+	.chat h4 {
+		font-size: 21px;
+	}
+	.experience {
+		background: url(../img/technol/767ex-hill.png) no-repeat 50% 50%;
+}
+.experience .wrap-r-hill {
+		height: 358px;
+}
+	.portf-slider-desk .mackbook {
+		display: none;
+	}
+	.portf-slider-2 {
+		height: 200px;
+	}
+	.portf-slider-2, .portf-slider-3 {
+		background-position: 50% 0;
+}
+.owl-carousel .owl-item img {
+	margin: 0 auto;
+}
+	i.my {
+		font-size: 28px;
+	}
+	.brief .col-md-3 {
+		width: 50%;
+}
+	.brief .row {
+		margin: 0 5px;
+}
+.brief h4 {
+	margin-top: 35px;
+}
+	.main-menu .navbar-nav {
+		width: 100%;
+		margin-left: 0;
+		text-align: center;
+		margin: 10px 0;
+	}
+	.main-menu li.active {
+		background-image: none;
+		background-color: #000;
+		border-radius: 10px;
+	}
+	.main-menu li.active:after {
+		display: none;
+	}
+	.main-menu li {
+		display: inline-block;
+		transition: all 0s;
+		margin-top: 10px;
+	}
+	.container-fluid>.navbar-header {
+		background-color: #054742;
+	}
+	.areas .nav-tabs > li > a {
+		font-size: 14px;
+		padding: 10px 30px;
+	}
+.team .team-items {
+	background: none;
+}
+.team .center-item {
+	display: none;
+}
+.team .team-img {
+	position: static;
+	max-width: 100%;
+	margin: 10px;
+	margin-top: 40px;
+	float: left;
+}
+.team .team-items {
+	width: auto;
+	margin-top: 0;
+}
+.team {
+	padding-bottom: 80px;
+}
+img.ninj {
+		width: 100%;
+}
+.lang .line-vent {
+		position: absolute;
+		top: 129px;
+		left: 129px;
+}
+img.vent {
+		top: 60px;
+		left: 200px;
+}
+ .line-vent, img.vent{
+	display: none;
+ }
+ .lang .wrap-ninj {
+	width: auto;
+ }
+ .cms .wrap-ul {
+	margin-right: 0;
+ }
+ .particl ul {
+	font-size: 12px;
+ }
+.why-us .why-item {
+	margin-bottom: 40px;
+}
+.why-us h4, .design .why-item h5 {
+	margin-top: 15px;
+}
+.why-us p {
+	width: 90%;
+}
+.team {
+	display: none;
+}
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 640px) {
+	.interes h2, .chat h2 {
+		font-size: 35px;
+		line-height: 40px;
+	}
+	.interes h3, .chat h3, .serv-contact h2 {
+		font-size: 25px;
+	}
+	.chat h6 {
+		font-size: 24px;
+		margin: 15px 0;
+	}
+	.partners .wrap-part img {
+		width: 60px;
+		margin-bottom: 20px;
+	}
+	.particl h4 {
+		margin-top: 0;
+	}
+}
+@media only screen and (max-width : 600px) {
+
+/*.team-items-sm .col-xs-3 {
+	width: 33%;
+	}*/
+.facts .facts-item {
+	width: 49%;
+	}
+}
+@media only screen and (max-width : 480px) {
+	h2 {
+		padding: 0 10px;
+	}
+	.partners {
+		padding-bottom: 85px;
+	}
+	section {
+		padding: 45px 0;
+	}
+	.design h4 {
+		font-size: 16px;
+		line-height: 26px;
+	}
+	.design h2 {
+		margin-bottom: 15px;
+	}
+	.design h3 {
+		font-size: 26px;
+	}
+	.interes h2, .chat h2 {
+		font-size: 26px;
+		line-height: 1.2;
+	}
+	.main-menu  .container-fluid {
+		padding-right: 0;
+		padding-left: 0;
+	}
+	textarea.form-control{
+		font-size: 14px;
+	}
+	.chat h6 {
+		font-size: 20px;
+	}
+	.main-menu .navbar-inverse .navbar-nav > li > a {
+	font-size: 8px;
+	color: #dfddd1;
+	}
+.areas .nav-tabs > li > a {
+	font-size: 9px;
+	}
+.main-menu li {
+		width: 87px;
+		margin-top: 0;
+	}
+	h1 {
+		font-size: 16px;
+	}
+	.index-body .main-descr h4 {
+		margin-top: 20px;
+	}
+	.client .wrap-com p {
+		margin-left: 50px;
+	}
+	a.button, .button {
+		width: 240px;
+	}
+	.serv-contact form {
+		width: 80%;
+	}
+	a.button, .button {
+		font-size: 14px;
+		padding: 12px 20px;
+	}
+	.partners .wrap-part img {
+		width: 45px;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	.partners .wrap-part {
+		padding-left: 10px;
+	}
+	.gallery li { 
+	margin-right: 0;
+	padding: 10px 12px;
+	font-size: 14px;
+	}
+	.areas h3 {
+		font-size: 13px;
+		line-height: 21px;
+	}
+.brief h4 {
+	font-size: 10px;
+}
+.brief .brief-item {
+		padding: 20px 5px 0px;
+}
+.particl h4 {
+	font-size: 11px;
+}
+
+.form-group {
+		margin-bottom: 5px;
+}
+.about-descr p {
+		line-height: 21px;
+		font-size: 11px;
+		padding: 0 10px;
+}
+ .areas .tab-pane h4 {
+	font-size: 12px;
+}
+	.experience {
+		background: url(../img/technol/320ex-hill.png) no-repeat 50% 50%;
+		
+}
+.experience .wrap-r-hill {
+	height: 250px;
+}
+.facts .facts-item {
+		width: 100%;
+}
+.facts .progress-bar, .facts .facts-item-4 .progress-bar, .facts .facts-item-2 .progress-bar {
+	-webkit-transform: scale(0.7);
+		-ms-transform: scale(0.7);
+		-moz-transform: scale(0.7);
+			transform: scale(0.7);
+}
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 420px) {
+	.areas .nav-tabs > li > a {
+    padding: 10px 16px;
+}
+}
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 767px) {
+	.navbar-nav {
+		height: 105px;
+		margin-bottom: -8px;
+}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+ /* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+}
