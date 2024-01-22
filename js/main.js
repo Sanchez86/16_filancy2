@@ -88,7 +88,7 @@ function init() {
 			var particle = $('<div class="particle"></div>');
 			var image = p[i];
 			particle
-				.css('background-image', "url(../images/"+image+")")
+				.css('background-image', "url(16_filancy2/images/"+image+")")
 				.css('background-repeat','no-repeat')
 				.css('width', PARTICLE_DIAMETER)
 				.css('height', PARTICLE_DIAMETER)
